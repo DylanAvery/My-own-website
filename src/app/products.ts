@@ -1,18 +1,28 @@
 export const products = [
   {
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Dragonsquad Hoodie',
+    price: 30,
+    description: 'Super comfy for the spring and winter time'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Dragonsquad t-shirt',
+    price: 19,
+    description: 'a great shirt for those that love tee shirts'
   },
   {
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'Dragonsquad baseball hat',
+    price: 11,
+    description: 'A hat perfect for baseball and blocking the sun'
+  },
+    {
+    name: 'Dragonsquad Socks',
+    price: 15,
+    description: 'We have colorful and stylish pairs for the winter and the summer'
+  },
+  {
+    name: 'Dragonsquad Sticker',
+    price: 2.99,
+    description: 'Perfect way to show support as a decoration of your choice'
   }
 ];
 
